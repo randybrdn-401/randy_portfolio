@@ -1,16 +1,18 @@
-# React + Vite
+# Portfolio de [Randy Bourdon]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ceci est le code source de mon portfolio personnel, conçu pour présenter mes compétences et mes projets en tant que développeur web.
 
-Currently, two official plugins are available:
+## 🚀 Démo en ligne
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vous pouvez visiter la version live du portfolio ici : **localhost**
 
-## React Compiler
+## 🎯 À propos de ce projet
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Ce projet a été créé pour servir de carte de visite. Il met en avant les projets sur lesquels j'ai travaillé, les technologies que je maîtrise et offre un moyen simple de me contacter pour des opportunités professionnelles.
 
-## Expanding the ESLint configuration
+## 📫 Contact
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Email :** [randybourdonpro@gmail.com](mailto:randybourdonpro@gmail.com)
+* **LinkedIn :** [https://www.linkedin.com/in/randy-bourdon-a73768163/](https://www.linkedin.com/in/randy-bourdon-a73768163/)
+
+N'hésitez pas à me contacter !
